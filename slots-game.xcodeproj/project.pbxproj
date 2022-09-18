@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		A7B8F9E728D7596A0074EC8D /* slots-game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "slots-game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7B8F9EA28D7596A0074EC8D /* slots_gameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slots_gameApp.swift; sourceTree = "<group>"; };
-		A7B8F9EC28D7596A0074EC8D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A7B8F9EC28D7596A0074EC8D /* ContentView.swift */ = {isa = PBXFileReference; indentWidth = 10; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 10; usesTabs = 0; };
 		A7B8F9EE28D7596A0074EC8D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7B8F9F128D7596A0074EC8D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
